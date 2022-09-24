@@ -31,4 +31,3 @@ public:
         return *S.begin();
     }
 };
-Footer
