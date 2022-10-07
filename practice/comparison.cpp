@@ -6,7 +6,7 @@ bool compare(string a,string b){
     int i=0,j=0;
     while(i<a.size() && a[i]=='0') 
     {
-        i++;
+        i++; 
     }
     while(j<b.size() && b[j]=='0')
     {
